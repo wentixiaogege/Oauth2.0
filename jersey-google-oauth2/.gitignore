@@ -1,0 +1,11 @@
+*.properties
+.project
+.settings
+target
+.DS_Store
+bin
+.metadata
+.classpath
+dist
+.tmp
+
